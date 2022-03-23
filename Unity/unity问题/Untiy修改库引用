@@ -1,0 +1,1 @@
+# Unity Library中的库文件为缓存，修改不了需要将文件拷贝出来然后再 Minifist.json 中对应的库文件地址指引到修改后的目录格式为："file:../UserPackage/packageFloderName"

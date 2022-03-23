@@ -1,0 +1,2 @@
+# URP Shader设置参数
+    URP 代码修改shader中的参数，需要从ShaderGraph里面打开代码模式 然后copy括号前的参数，从MeshRender或者SkinMeshReneder上获取Material参数，一般需要获取当前模型上所有包含MeshRender或其子类对象，遍历赋值，正常Shader也是通过获取括号前的参数进行赋值 

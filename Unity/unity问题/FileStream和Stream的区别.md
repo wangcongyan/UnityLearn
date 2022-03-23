@@ -1,0 +1,1 @@
+# C#FileStream与Stream类区别
